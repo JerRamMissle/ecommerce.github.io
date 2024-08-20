@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/ecommerce.github.io/static/js/main.2587a800.chunk.js",
+    "main.js.map": "/ecommerce.github.io/static/js/main.2587a800.chunk.js.map",
+    "runtime-main.js": "/ecommerce.github.io/static/js/runtime-main.bc8e0973.js",
+    "runtime-main.js.map": "/ecommerce.github.io/static/js/runtime-main.bc8e0973.js.map",
+    "static/js/2.5999e5ce.chunk.js": "/ecommerce.github.io/static/js/2.5999e5ce.chunk.js",
+    "static/js/2.5999e5ce.chunk.js.map": "/ecommerce.github.io/static/js/2.5999e5ce.chunk.js.map",
+    "index.html": "/ecommerce.github.io/index.html",
+    "precache-manifest.4362cdcbcea1ea9b444bc5861d1167e3.js": "/ecommerce.github.io/precache-manifest.4362cdcbcea1ea9b444bc5861d1167e3.js",
+    "service-worker.js": "/ecommerce.github.io/service-worker.js",
+    "static/js/2.5999e5ce.chunk.js.LICENSE.txt": "/ecommerce.github.io/static/js/2.5999e5ce.chunk.js.LICENSE.txt",
+    "static/media/commerce.png": "/ecommerce.github.io/static/media/commerce.422fec10.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc8e0973.js",
+    "static/js/2.5999e5ce.chunk.js",
+    "static/js/main.2587a800.chunk.js"
+  ]
+}
