@@ -8,6 +8,7 @@ import useStyles from './styles';
 import { ShoppingCart } from '@material-ui/icons';
 
 
+
 const PrimarySearchAppBar = ({ totalItems }) => {
     const [mobileMoreAnchorEl, setMobileMoreAnchorEl] = useState(null);
     const classes = useStyles();
@@ -32,11 +33,13 @@ const PrimarySearchAppBar = ({ totalItems }) => {
         </Menu>
     );
 
+
+
     return (
         <>
             <AppBar position="fixed" className={classes.appBar} color="inherit">
                 <Toolbar>
-                    <Typography component={Link} to="/" variant="h6" className={classes.title} color="inherit">
+                    <Typography component={Link} to="/jerrammissle.github.io" variant="h6" className={classes.title} color="inherit">
                         <img src={logo} alt="commerce.js" height="25px" className={classes.image} /> Commerce.js
                     </Typography>
                     <div className={classes.grow} />
@@ -48,10 +51,14 @@ const PrimarySearchAppBar = ({ totalItems }) => {
                                 </Badge>
                             </IconButton>
                         </div>
+
                     )}
                 </Toolbar>
             </AppBar>
             {renderMobileMenu}
+
+
+
         </>
     );
 };
