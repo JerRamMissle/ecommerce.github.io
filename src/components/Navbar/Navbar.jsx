@@ -35,7 +35,7 @@ const PrimarySearchAppBar = ({ totalItems }) => {
 
 
     console.log('LOCATION')
-    console.log(location.pathname)
+    console.log(location.pathname === '/ecommerce.github.io/')
 
     return (
         <>
@@ -45,7 +45,7 @@ const PrimarySearchAppBar = ({ totalItems }) => {
                         <img src={logo} alt="commerce.js" height="25px" className={classes.image} /> Commerce.js
                     </Typography>
                     <div className={classes.grow} />
-                    {location.pathname === '/ecommerce.github.io' && (
+                    {location.pathname === '/ecommerce.github.io/' && (
                         <div className={classes.button}>
                             <IconButton component={Link} to="/cart" aria-label="Show cart items" color="inherit">
                                 <Badge badgeContent={totalItems} color="secondary" overlap='rectangular'>
