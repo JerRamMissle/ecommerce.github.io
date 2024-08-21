@@ -1,7 +1,7 @@
 {
   "name": "eccomerce",
   "version": "0.1.0",
-  "homepage": "https://jerrammissle.github.io",
+  "homepage": "https://JerRamMissle.github.io/ecommerce.github.io",
   "private": true,
   "dependencies": {
     "@chec/commerce.js": "^2.3.0-beta1",
