@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c4cb49d165db77c458b77daaaf66788",
+    "revision": "93ff05057d09bfc0fa516eda1130311a",
     "url": "/ecommerce.github.io/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ecommerce.github.io/static/js/2.51cb6d97.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d1af9adcc6779bfbf7a8",
-    "url": "/ecommerce.github.io/static/js/main.2587a800.chunk.js"
+    "revision": "85da940072956d16aae6",
+    "url": "/ecommerce.github.io/static/js/main.b2f244d4.chunk.js"
   },
   {
     "revision": "5969c966ebbd4cfaecd6",
