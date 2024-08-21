@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/ecommerce.github.io/static/js/main.8bd6b925.chunk.js",
-    "main.js.map": "/ecommerce.github.io/static/js/main.8bd6b925.chunk.js.map",
-    "runtime-main.js": "/ecommerce.github.io/static/js/runtime-main.bc8e0973.js",
-    "runtime-main.js.map": "/ecommerce.github.io/static/js/runtime-main.bc8e0973.js.map",
-    "static/js/2.5999e5ce.chunk.js": "/ecommerce.github.io/static/js/2.5999e5ce.chunk.js",
-    "static/js/2.5999e5ce.chunk.js.map": "/ecommerce.github.io/static/js/2.5999e5ce.chunk.js.map",
-    "index.html": "/ecommerce.github.io/index.html",
-    "precache-manifest.c867f2b64c68f79d3644ccd7534ef00e.js": "/ecommerce.github.io/precache-manifest.c867f2b64c68f79d3644ccd7534ef00e.js",
-    "service-worker.js": "/ecommerce.github.io/service-worker.js",
-    "static/js/2.5999e5ce.chunk.js.LICENSE.txt": "/ecommerce.github.io/static/js/2.5999e5ce.chunk.js.LICENSE.txt",
-    "static/media/commerce.png": "/ecommerce.github.io/static/media/commerce.422fec10.png"
+    "main.js": "/static/js/main.21784db8.chunk.js",
+    "main.js.map": "/static/js/main.21784db8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.de9d06f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.de9d06f6.js.map",
+    "static/js/2.51cb6d97.chunk.js": "/static/js/2.51cb6d97.chunk.js",
+    "static/js/2.51cb6d97.chunk.js.map": "/static/js/2.51cb6d97.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.efe4a71388ee20700a491e557bc89862.js": "/precache-manifest.efe4a71388ee20700a491e557bc89862.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.51cb6d97.chunk.js.LICENSE.txt": "/static/js/2.51cb6d97.chunk.js.LICENSE.txt",
+    "static/media/commerce.png": "/static/media/commerce.422fec10.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.bc8e0973.js",
-    "static/js/2.5999e5ce.chunk.js",
-    "static/js/main.8bd6b925.chunk.js"
+    "static/js/runtime-main.de9d06f6.js",
+    "static/js/2.51cb6d97.chunk.js",
+    "static/js/main.21784db8.chunk.js"
   ]
 }
