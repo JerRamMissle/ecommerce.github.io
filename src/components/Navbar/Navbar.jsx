@@ -34,6 +34,8 @@ const PrimarySearchAppBar = ({ totalItems }) => {
     );
 
 
+    console.log('LOCATION')
+    console.log(location.pathname)
 
     return (
         <>
